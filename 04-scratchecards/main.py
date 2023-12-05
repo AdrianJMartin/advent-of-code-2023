@@ -107,4 +107,12 @@ exit
 5 wins 0
 6 wins 0
 
+echo "# advent-of-code-2023" >> README.md
+  git init
+  git add README.md
+  git commit -m "first commit"
+  git branch -M main
+  git remote add origin https://github.com/AdrianJMartin/advent-of-code-2023.git
+  git push -u origin main
+
 """
