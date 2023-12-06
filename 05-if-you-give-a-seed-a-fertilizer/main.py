@@ -155,3 +155,18 @@ with open( f"outputs.txt" ,"t+a") as f:
 # print( f"part 2: { lowest_loc }")
 
 
+# 50855035
+
+# pyrric victory 
+
+
+
+# 3 - 5 -> 3 - 5
+# 7 - 15 -> 7 - 10 , 11 - 15
+# 15 - 25 -> 15 - 20 . 21 - 25
+
+ 0 - 10
+11 - 20
+
+
+
