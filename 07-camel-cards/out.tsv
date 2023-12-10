@@ -1,0 +1,1003 @@
+stays the same
+part 2: 250757288
+01000	0x007dfff2	Five of a kind	Four of a kind	AAAAJ	14
+00999	0x007d20e0	Five of a kind	Full house	AJJAA	915
+00998	0x007cf3c3	Five of a kind	Full house	KKJKJ	959
+00997	0x007bfff4	Five of a kind	Four of a kind	QQQQJ	731
+00996	0x0079f6a0	Five of a kind	Four of a kind	TTJTT	944
+00995	0x0078fff7	Five of a kind	Four of a kind	9999J	822
+00994	0x00787879	Five of a kind	Full house	9J9J9	420
+00993	0x0077ff80	Five of a kind	Full house	888JJ	719
+00992	0x00778800	Five of a kind	Four of a kind	8J888	357
+00991	0x00778780	Five of a kind	Full house	8J8JJ	338
+00990	0x00778000	Five of a kind	Four of a kind	8JJJJ	685
+00989	0x0074ffb5	Five of a kind	Four of a kind	555J5	764
+00988	0x0074b04b	Five of a kind	Full house	5JJ5J	390
+00987	0x0073fffc	Five of a kind	Four of a kind	4444J	976
+00986	0x0073fc04	Five of a kind	Full house	44JJ4	738
+00985	0x0072fffd	Five of a kind	Four of a kind	3333J	654
+00984	0x0072d2fd	Five of a kind	Full house	3J33J	534
+00983	0x0071ffe2	Five of a kind	Four of a kind	222J2	833
+00982	0x0071e1fe	Five of a kind	Full house	2J22J	549
+00981	0x0070d000	Five of a kind	Four of a kind	JKKKK	948
+00980	0x0070b4c0	Five of a kind	Full house	JQJQQ	247
+00979	0x00709ff6	Five of a kind	Full house	JTTTJ	923
+00978	0x00707000	Five of a kind	Four of a kind	J7777	740
+00977	0x00706f97	Five of a kind	Full house	J77J7	957
+00976	0x00706000	Five of a kind	Four of a kind	J6666	406
+00975	0x00704ffb	Five of a kind	Full house	J555J	393
+00974	0x00700d2e	Five of a kind	Full house	JJAJA	816
+00973	0x00700040	Five of a kind	Full house	JJJ44	668
+00972	0x00700000	Five of a kind	Five of a kind	JJJJJ	488
+00971	0x006dfffb	Four of a kind	Four of a kind	AAAA9	734
+00970	0x006dfff4	Four of a kind	Four of a kind	AAAA2	290
+00969	0x006dff5b	Four of a kind	Four of a kind	AAA3A	50
+00968	0x006de200	Four of a kind	Four of a kind	AQAAA	994
+00967	0x006d7fa6	Four of a kind	Three of a kind	A66J6	84
+00966	0x006d2d26	Four of a kind	Two pair	AJAJ6	693
+00965	0x006d24b5	Four of a kind	Two pair	AJ5J5	31
+00964	0x006d0f00	Four of a kind	Four of a kind	KAKKK	782
+00963	0x006d00e3	Four of a kind	Three of a kind	KKAKJ	32
+00962	0x006cffff	Four of a kind	Four of a kind	KKKKQ	28
+00961	0x006cfffb	Four of a kind	Four of a kind	KKKK8	77
+00960	0x006cfff8	Four of a kind	Four of a kind	KKKK5	555
+00959	0x006cffc4	Four of a kind	Four of a kind	KKK9K	709
+00958	0x006cffa6	Four of a kind	Four of a kind	KKK7K	475
+00957	0x006cff6a	Four of a kind	Four of a kind	KKK3K	703
+00956	0x006cff3a	Four of a kind	Three of a kind	KKKJT	365
+00955	0x006cf790	Four of a kind	Four of a kind	KK4KK	328
+00954	0x006cd300	Four of a kind	Four of a kind	KTKKK	724
+00953	0x006cbff7	Four of a kind	Three of a kind	K999J	769
+00952	0x006cb000	Four of a kind	Four of a kind	K8888	742
+00951	0x006ca000	Four of a kind	Four of a kind	K7777	985
+00950	0x006c9f90	Four of a kind	Two pair	K77JJ	623
+00949	0x006c7000	Four of a kind	Four of a kind	K4444	284
+00948	0x006c6ffc	Four of a kind	Three of a kind	K444J	96
+00947	0x006c6000	Four of a kind	Four of a kind	K3333	652
+00946	0x006c4ed0	Four of a kind	Three of a kind	K2JKK	19
+00945	0x006c3ca6	Four of a kind	Three of a kind	KJK7K	473
+00944	0x006c3c3a	Four of a kind	Two pair	KJKJT	867
+00943	0x006c3850	Four of a kind	Three of a kind	KJ8KK	662
+00942	0x006c03d0	Four of a kind	Three of a kind	QKJKK	166
+00941	0x006c00f0	Four of a kind	Four of a kind	QQKQQ	453
+00940	0x006bfffe	Four of a kind	Four of a kind	QQQQT	306
+00939	0x006bff6a	Four of a kind	Four of a kind	QQQ2Q	927
+00938	0x006bf407	Four of a kind	Two pair	QQJJ7	125
+00937	0x006b9ffa	Four of a kind	Three of a kind	Q666J	513
+00936	0x006b4bfa	Four of a kind	Three of a kind	QJQQ6	728
+00935	0x006b4a20	Four of a kind	Three of a kind	QJTQQ	874
+00934	0x006a23a0	Four of a kind	Three of a kind	TKJTT	242
+00933	0x006a01e0	Four of a kind	Four of a kind	TTQTT	113
+00932	0x0069fffa	Four of a kind	Four of a kind	TTTT4	784
+00931	0x0069fc40	Four of a kind	Four of a kind	TT6TT	781
+00930	0x0069f69e	Four of a kind	Three of a kind	TTJT8	117
+00929	0x00699ca0	Four of a kind	Three of a kind	T4JTT	557
+00928	0x00699700	Four of a kind	Four of a kind	T3TTT	868
+00927	0x00696730	Four of a kind	Three of a kind	TJ7TT	546
+00926	0x00693000	Four of a kind	Four of a kind	9QQQQ	811
+00925	0x00690ff6	Four of a kind	Three of a kind	9TTTJ	233
+00924	0x0068fffb	Four of a kind	Four of a kind	99994	727
+00923	0x0068ff78	Four of a kind	Three of a kind	999J8	33
+00922	0x0068ff10	Four of a kind	Four of a kind	99899	176
+00921	0x0068fe20	Four of a kind	Four of a kind	99799	503
+00920	0x0068fc40	Four of a kind	Four of a kind	99599	556
+00919	0x0068f970	Four of a kind	Four of a kind	99299	907
+00918	0x0068e880	Four of a kind	Three of a kind	98J88	302
+00917	0x0068e000	Four of a kind	Four of a kind	97777	287
+00916	0x00687720	Four of a kind	Three of a kind	9J799	261
+00915	0x00687450	Four of a kind	Three of a kind	9J499	737
+00914	0x0068701e	Four of a kind	Three of a kind	9JJ2J	163
+00913	0x00686000	Four of a kind	Four of a kind	8AAAA	490
+00912	0x00681e00	Four of a kind	Four of a kind	8T888	641
+00911	0x0068003c	Four of a kind	Four of a kind	888Q8	917
+00910	0x00680006	Four of a kind	Four of a kind	8888A	768
+00909	0x0067ffff	Four of a kind	Four of a kind	88887	235
+00908	0x0067fffd	Four of a kind	Four of a kind	88885	9
+00907	0x0067fe20	Four of a kind	Four of a kind	88688	891
+00906	0x0067b000	Four of a kind	Four of a kind	83333	67
+00905	0x0067ad80	Four of a kind	Three of a kind	83J88	432
+00904	0x006787fd	Four of a kind	Three of a kind	8J885	779
+00903	0x00678620	Four of a kind	Three of a kind	8J688	466
+00902	0x00670069	Four of a kind	Four of a kind	777A7	344
+00901	0x0067004b	Four of a kind	Four of a kind	777Q7	624
+00900	0x0067002d	Four of a kind	Four of a kind	777T7	26
+00899	0x0067000f	Four of a kind	Four of a kind	77787	701
+00898	0x0066fffd	Four of a kind	Four of a kind	77774	978
+00897	0x0066ff92	Four of a kind	Three of a kind	777J2	884
+00896	0x0066fc40	Four of a kind	Four of a kind	77377	790
+00895	0x0066ae20	Four of a kind	Three of a kind	72J22	750
+00894	0x0066972d	Four of a kind	Three of a kind	7J7T7	71
+00893	0x00668000	Four of a kind	Four of a kind	6AAAA	483
+00892	0x00667ff2	Four of a kind	Three of a kind	6AAAJ	87
+00891	0x00667800	Four of a kind	Four of a kind	6A666	588
+00890	0x00666900	Four of a kind	Four of a kind	6K666	538
+00889	0x00666000	Four of a kind	Four of a kind	6QQQQ	495
+00888	0x00663c00	Four of a kind	Four of a kind	6T666	431
+00887	0x00660003	Four of a kind	Four of a kind	66669	947
+00886	0x00660001	Four of a kind	Four of a kind	66667	226
+00885	0x0065fc3a	Four of a kind	Three of a kind	6626J	416
+00884	0x0065fa3c	Four of a kind	Two pair	66J4J	253
+00883	0x0065f100	Four of a kind	Four of a kind	65666	378
+00882	0x0065d300	Four of a kind	Four of a kind	63666	80
+00881	0x0065a696	Four of a kind	Two pair	6J7J6	946
+00880	0x00656900	Four of a kind	Four of a kind	5Q555	456
+00879	0x006504b0	Four of a kind	Four of a kind	55T55	343
+00878	0x00650008	Four of a kind	Four of a kind	5555K	337
+00877	0x00650001	Four of a kind	Four of a kind	55556	485
+00876	0x0064fff1	Four of a kind	Four of a kind	55545	398
+00875	0x0064ffec	Four of a kind	Three of a kind	5554J	48
+00874	0x0064fe20	Four of a kind	Four of a kind	55355	47
+00873	0x0064fce5	Four of a kind	Three of a kind	552J5	832
+00872	0x0064fb9b	Four of a kind	Three of a kind	55JT5	20
+00871	0x0064b53c	Four of a kind	Three of a kind	5J595	974
+00870	0x0064b508	Four of a kind	Three of a kind	5J55K	700
+00869	0x0064b080	Four of a kind	Two pair	5JJ88	847
+00868	0x00647440	Four of a kind	Three of a kind	4QJ44	533
+00867	0x006459fc	Four of a kind	Three of a kind	4T44J	280
+00866	0x00640780	Four of a kind	Four of a kind	44Q44	498
+00865	0x00640096	Four of a kind	Four of a kind	444A4	854
+00864	0x0064004b	Four of a kind	Four of a kind	44494	187
+00863	0x0064003c	Four of a kind	Four of a kind	44484	491
+00862	0x0064002d	Four of a kind	Four of a kind	44474	612
+00861	0x0064001a	Four of a kind	Three of a kind	4446J	425
+00860	0x0064000f	Four of a kind	Four of a kind	44454	238
+00859	0x0063fff1	Four of a kind	Four of a kind	44434	813
+00858	0x0063fc09	Four of a kind	Two pair	44JJ9	449
+00857	0x0063e000	Four of a kind	Four of a kind	42222	873
+00856	0x00631e00	Four of a kind	Four of a kind	35333	732
+00855	0x00630c2d	Four of a kind	Two pair	34J3J	901
+00854	0x00630870	Four of a kind	Four of a kind	33Q33	236
+00853	0x006302d0	Four of a kind	Four of a kind	33633	953
+00852	0x006300a5	Four of a kind	Four of a kind	333A3	13
+00851	0x0063000f	Four of a kind	Four of a kind	33343	34
+00850	0x0062fdd5	Four of a kind	Three of a kind	33JA3	54
+00849	0x0062d4dd	Four of a kind	Two pair	3J53J	90
+00848	0x0062d33c	Four of a kind	Three of a kind	3J373	496
+00847	0x0062d1fe	Four of a kind	Two pair	3J22J	801
+00846	0x0062d0b7	Four of a kind	Two pair	3JJQ3	608
+00845	0x0062b000	Four of a kind	Four of a kind	2KKKK	162
+00844	0x00629600	Four of a kind	Four of a kind	2Q222	660
+00843	0x00628000	Four of a kind	Four of a kind	2TTTT	433
+00842	0x00624000	Four of a kind	Four of a kind	26666	830
+00841	0x00623000	Four of a kind	Four of a kind	25555	883
+00840	0x00622000	Four of a kind	Four of a kind	24444	675
+00839	0x00621000	Four of a kind	Four of a kind	23333	229
+00838	0x00620a50	Four of a kind	Four of a kind	22K22	590
+00837	0x00620490	Four of a kind	Two pair	227JJ	568
+00836	0x006203c0	Four of a kind	Four of a kind	22622	850
+00835	0x0062005a	Four of a kind	Four of a kind	22282	695
+00834	0x0062000c	Four of a kind	Four of a kind	2222A	210
+00833	0x0061ffe3	Four of a kind	Three of a kind	222J3	804
+00832	0x0061fe27	Four of a kind	Three of a kind	22J29	864
+00831	0x0061fe05	Four of a kind	Two pair	22JJ5	570
+00830	0x0060b466	Four of a kind	Two pair	JQJ6Q	241
+00829	0x0060a14a	Four of a kind	Two pair	JTQJT	604
+00828	0x00608a00	Four of a kind	Three of a kind	J9333	181
+00827	0x00607bc0	Four of a kind	Three of a kind	J84JJ	369
+00826	0x00607026	Four of a kind	Two pair	J77TJ	882
+00825	0x00606ffd	Four of a kind	Three of a kind	J7774	535
+00824	0x0060696e	Four of a kind	Two pair	J7J75	109
+00823	0x00605500	Four of a kind	Three of a kind	J5TTT	438
+00822	0x00604384	Four of a kind	Two pair	J48J4	763
+00821	0x006041dc	Four of a kind	Two pair	J464J	134
+00820	0x0060400f	Four of a kind	Three of a kind	J4454	146
+00819	0x0060384c	Four of a kind	Two pair	J3QJQ	918
+00818	0x00600804	Four of a kind	Two pair	JJ88Q	664
+00817	0x00600669	Four of a kind	Two pair	JJ6K6	463
+00816	0x00600208	Four of a kind	Two pair	JJ22T	332
+00815	0x005dff00	Full house	Full house	AAKKK	614
+00814	0x005dfa5a	Full house	Full house	AA8A8	421
+00813	0x005dfa00	Full house	Full house	AA888	888
+00812	0x005df988	Full house	Two pair	AA8J8	21
+00811	0x005df808	Full house	Full house	AA66A	311
+00810	0x005df800	Full house	Full house	AA666	815
+00809	0x005df2d0	Full house	Two pair	AAJKK	931
+00808	0x005d9070	Full house	Full house	A77AA	270
+00807	0x005d2707	Full house	Two pair	AJ77A	551
+00806	0x005cff90	Full house	Full house	KKK66	934
+00805	0x005cfb4b	Full house	Full house	KK8K8	131
+00804	0x005c9007	Full house	Full house	K666K	30
+00803	0x005c60a0	Full house	Full house	K33KK	331
+00802	0x005c3a2d	Full house	Two pair	KJTKT	860
+00801	0x005c0fff	Full house	Full house	QKKKQ	392
+00800	0x005c01fe	Full house	Full house	QQAAQ	132
+00799	0x005bfe00	Full house	Full house	QQTTT	75
+00798	0x005bfb4b	Full house	Full house	QQ7Q7	297
+00797	0x005bf808	Full house	Full house	QQ44Q	602
+00796	0x005bf800	Full house	Full house	QQ444	505
+00795	0x005bf6fd	Full house	Two pair	QQ33J	191
+00794	0x005ba006	Full house	Full house	Q666Q	958
+00793	0x005b8bb9	Full house	Two pair	Q5JQ5	86
+00792	0x005b7087	Full house	Full house	Q33Q3	381
+00791	0x005b600a	Full house	Full house	Q222Q	258
+00790	0x005a2d2d	Full house	Full house	TKTKT	824
+00789	0x005a1e20	Full house	Full house	TQTQQ	881
+00788	0x005a0040	Full house	Full house	TTTAA	5
+00787	0x0059fc04	Full house	Full house	TT66T	252
+00786	0x0059f800	Full house	Full house	TT222	225
+00785	0x0059f006	Full house	Two pair	T99TJ	2
+00784	0x0059e01e	Full house	Full house	T88T8	670
+00783	0x0059d2d0	Full house	Full house	T7T77	552
+00782	0x0059b04b	Full house	Full house	T55T5	479
+00781	0x00594295	Full house	Two pair	9AJ9A	273
+00780	0x00593fc4	Full house	Full house	9KK9K	333
+00779	0x00592d03	Full house	Full house	9Q99Q	143
+00778	0x00590ff1	Full house	Full house	9TT9T	564
+00777	0x00590f0f	Full house	Full house	9T9T9	353
+00776	0x00590500	Full house	Full house	99AAA	442
+00775	0x0058ff0f	Full house	Full house	99898	680
+00774	0x0058f760	Full house	Two pair	99J66	326
+00773	0x0058e1e2	Full house	Full house	97979	798
+00772	0x0058c3c0	Full house	Full house	95955	895
+00771	0x0058a5a6	Full house	Full house	93939	480
+00770	0x00581fe2	Full house	Full house	8TT8T	775
+00769	0x0058078f	Full house	Two pair	89J98	152
+00768	0x0057fc04	Full house	Full house	88448	686
+00767	0x0057fb05	Full house	Full house	88338	82
+00766	0x0057f8c0	Full house	Two pair	88JQQ	878
+00765	0x0057f0f1	Full house	Full house	87878	949
+00764	0x0057f001	Full house	Full house	87778	305
+00763	0x0057e1da	Full house	Two pair	8686J	865
+00762	0x0057e020	Full house	Full house	86688	663
+00761	0x00576907	Full house	Full house	7A77A	803
+00760	0x00574a9c	Full house	Two pair	7Q7JQ	755
+00759	0x00570600	Full house	Full house	77KKK	289
+00758	0x0056fff0	Full house	Full house	77766	101
+00757	0x0056f00f	Full house	Full house	76676	545
+00756	0x0056c393	Full house	Two pair	737J3	377
+00755	0x0056b492	Full house	Two pair	727J2	585
+00754	0x00565fa6	Full house	Full house	6QQ6Q	174
+00753	0x0055fefb	Full house	Two pair	6655J	362
+00752	0x0055d02d	Full house	Full house	63363	254
+00751	0x0055a41e	Full house	Two pair	6J464	88
+00750	0x00558790	Full house	Full house	5A5AA	773
+00749	0x00557f80	Full house	Full house	5KK55	298
+00748	0x00556f97	Full house	Full house	5QQ5Q	975
+00747	0x00556f90	Full house	Full house	5QQ55	862
+00746	0x00554fb5	Full house	Full house	5TT5T	359
+00745	0x00553ffc	Full house	Full house	59995	805
+00744	0x00552ffd	Full house	Full house	58885	424
+00743	0x0055287d	Full house	Two pair	58J85	541
+00742	0x00550ff0	Full house	Full house	56655	74
+00741	0x0055073d	Full house	Two pair	55KJK	165
+00740	0x005503f7	Full house	Two pair	5599J	467
+00739	0x00550200	Full house	Full house	55777	112
+00738	0x00550090	Full house	Full house	555AA	932
+00737	0x0054ff01	Full house	Full house	55445	204
+00736	0x0054fd2d	Full house	Full house	55252	83
+00735	0x0054ce23	Full house	Two pair	52J25	526
+00734	0x0054b40f	Full house	Two pair	5J454	736
+00733	0x00549f6a	Full house	Full house	4AA4A	880
+00732	0x00548f79	Full house	Full house	4KK4K	15
+00731	0x00544b50	Full house	Full house	49499	672
+00730	0x00542cc7	Full house	Two pair	474J7	168
+00729	0x0054096a	Full house	Full house	44A4A	4
+00728	0x005404b5	Full house	Full house	44949	899
+00727	0x0053e1e0	Full house	Full house	42422	607
+00726	0x0053960a	Full house	Full house	3K33K	930
+00725	0x00538790	Full house	Full house	3Q3QQ	111
+00724	0x00536f8d	Full house	Two pair	3TT3J	796
+00723	0x00531fe0	Full house	Full house	35533	634
+00722	0x00530300	Full house	Full house	33666	600
+00721	0x00530050	Full house	Full house	33388	478
+00720	0x0052ff0f	Full house	Full house	33232	628
+00719	0x00529ff6	Full house	Full house	2QQQ2	821
+00718	0x00526f72	Full house	Two pair	299J2	674
+00717	0x00524fb5	Full house	Full house	27727	819
+00716	0x00520a5b	Full house	Full house	22K2K	789
+00715	0x005206f9	Full house	Full house	22992	601
+00714	0x0051fe40	Full house	Two pair	22J44	991
+00713	0x0050d5a5	Full house	Two pair	JA3A3	354
+00712	0x0050bfa0	Full house	Two pair	JQQ66	232
+00711	0x00509a5a	Full house	Two pair	JT4T4	676
+00710	0x00506f0f	Full house	Two pair	J7676	282
+00709	0x00505d03	Full house	Two pair	J6336	780
+00708	0x00502a5b	Full house	Two pair	J2K2K	394
+00707	0x004dfe1f	Three of a kind	Three of a kind	AAQAK	802
+00706	0x004dfe15	Three of a kind	Three of a kind	AAQA3	589
+00705	0x004df7cc	Three of a kind	Three of a kind	AA62A	322
+00704	0x004de385	Three of a kind	One pair	AKJ8K	583
+00703	0x004dbe20	Three of a kind	Three of a kind	AT8TT	428
+00702	0x004db4fe	Three of a kind	Three of a kind	A9AAQ	648
+00701	0x004db423	Three of a kind	One pair	A9AJ3	413
+00700	0x004da5f7	Three of a kind	Three of a kind	A8AA5	249
+00699	0x004d8e90	Three of a kind	Three of a kind	A75AA	18
+00698	0x004d8c39	Three of a kind	One pair	A737J	967
+00697	0x004d6bd4	Three of a kind	One pair	A5JA2	573
+00696	0x004d6b2d	Three of a kind	One pair	A5J3J	808
+00695	0x004d2b5e	Three of a kind	One pair	AJQ2J	523
+00694	0x004d00ef	Three of a kind	Three of a kind	KKAKQ	745
+00693	0x004cf8a4	Three of a kind	One pair	KK6J4	295
+00692	0x004ce41e	Three of a kind	One pair	KQJ2J	16
+00691	0x004cbaa0	Three of a kind	Three of a kind	K93KK	937
+00690	0x004c69fa	Three of a kind	Three of a kind	K3KK7	465
+00689	0x004c64ad	Three of a kind	One pair	K383J	55
+00688	0x004c6190	Three of a kind	Three of a kind	K34KK	427
+00687	0x004c37e2	Three of a kind	One pair	KJ868	115
+00686	0x004c3520	Three of a kind	One pair	KJ577	447
+00685	0x004c3037	Three of a kind	One pair	KJJ3T	647
+00684	0x004bffc6	Three of a kind	Three of a kind	QQQ8A	972
+00683	0x004bfcca	Three of a kind	One pair	QQ96J	35
+00682	0x004bfa15	Three of a kind	Three of a kind	QQ67Q	203
+00681	0x004bde40	Three of a kind	Three of a kind	QT8QQ	391
+00680	0x004bdb00	Three of a kind	Three of a kind	QT555	625
+00679	0x004bd120	Three of a kind	Three of a kind	Q9TQQ	36
+00678	0x004bd004	Three of a kind	Three of a kind	Q999K	114
+00677	0x004bc00f	Three of a kind	Three of a kind	Q8898	199
+00676	0x004bbf9e	Three of a kind	One pair	Q882J	758
+00675	0x004ba007	Three of a kind	Three of a kind	Q666K	271
+00674	0x004b96a6	Three of a kind	Three of a kind	Q5Q6Q	245
+00673	0x004b8fdd	Three of a kind	One pair	Q553J	370
+00672	0x004b8b90	Three of a kind	One pair	Q5J99	189
+00671	0x004b8b4d	Three of a kind	One pair	Q5J52	964
+00670	0x004b8b30	Three of a kind	One pair	Q5J33	806
+00669	0x004b87fb	Three of a kind	Three of a kind	Q4QQ7	621
+00668	0x004b8096	Three of a kind	Three of a kind	Q44A4	989
+00667	0x004b6fff	Three of a kind	Three of a kind	Q3332	107
+00666	0x004b6af3	Three of a kind	One pair	Q2KKJ	733
+00665	0x004b64b0	Three of a kind	Three of a kind	Q2722	598
+00664	0x004b4a21	Three of a kind	One pair	QJTQK	388
+00663	0x004b4630	Three of a kind	One pair	QJ699	846
+00662	0x004a34da	Three of a kind	One pair	TA3JT	193
+00661	0x004a32cd	Three of a kind	One pair	TAJKT	291
+00660	0x004a1c7c	Three of a kind	One pair	TQ9JQ	554
+00659	0x004a0031	Three of a kind	Three of a kind	TTTKA	578
+00658	0x004a0016	Three of a kind	Three of a kind	TTTQ2	979
+00657	0x0049ff9a	Three of a kind	Three of a kind	TTT3K	486
+00656	0x0049fae7	Three of a kind	Three of a kind	TT53T	626
+00655	0x0049f4b6	Three of a kind	One pair	T9ATJ	725
+00654	0x0049f0e2	Three of a kind	Three of a kind	T9T8T	977
+00653	0x0049f003	Three of a kind	Three of a kind	T999Q	595
+00652	0x0049e78c	Three of a kind	One pair	T9J95	646
+00651	0x0049de18	Three of a kind	One pair	T868J	584
+00650	0x0049d0e9	Three of a kind	One pair	T787J	127
+00649	0x0049c097	Three of a kind	One pair	T67J7	766
+00648	0x0049a569	Three of a kind	One pair	T4TJ9	441
+00647	0x00499e80	Three of a kind	Three of a kind	T42TT	681
+00646	0x00499a4d	Three of a kind	One pair	T3A3J	192
+00645	0x00499900	Three of a kind	Three of a kind	T3QQQ	897
+00644	0x00499340	Three of a kind	Three of a kind	T36TT	349
+00643	0x0049621c	Three of a kind	One pair	TJ24J	92
+00642	0x004946a0	Three of a kind	Three of a kind	9A4AA	444
+00641	0x004906e0	Three of a kind	One pair	9TJAA	562
+00640	0x0048ff98	Three of a kind	Three of a kind	9992T	368
+00639	0x0048fc45	Three of a kind	Three of a kind	9959A	458
+00638	0x0048fa61	Three of a kind	Three of a kind	9939T	550
+00637	0x0048f0d3	Three of a kind	Three of a kind	98969	659
+00636	0x0048effb	Three of a kind	Three of a kind	98883	922
+00635	0x0048e8bd	Three of a kind	One pair	98JQ9	329
+00634	0x0048dfe2	Three of a kind	Three of a kind	97757	988
+00633	0x0048d729	Three of a kind	One pair	96AJ9	702
+00632	0x0048d273	Three of a kind	One pair	969J3	223
+00631	0x0048d069	Three of a kind	Three of a kind	966K6	586
+00630	0x0048c4f0	Three of a kind	Three of a kind	95T99	995
+00629	0x0048bf00	Three of a kind	Three of a kind	95444	309
+00628	0x0048b52d	Three of a kind	Three of a kind	949Q9	514
+00627	0x00489a00	Three of a kind	Three of a kind	92QQQ	116
+00626	0x004894b0	Three of a kind	Three of a kind	92722	224
+00625	0x004854b2	Three of a kind	One pair	8A2AJ	371
+00624	0x004816b4	Three of a kind	One pair	8TJQJ	300
+00623	0x0047fc46	Three of a kind	Three of a kind	8848A	198
+00622	0x0047fbca	Three of a kind	One pair	884JT	450
+00621	0x0047f5a8	Three of a kind	One pair	87K8J	461
+00620	0x0047e940	Three of a kind	One pair	87J44	861
+00619	0x0047d2ff	Three of a kind	Three of a kind	85887	367
+00618	0x0047bffe	Three of a kind	Three of a kind	84442	72
+00617	0x0047b084	Three of a kind	One pair	833QJ	274
+00616	0x0047a5fb	Three of a kind	Three of a kind	82883	492
+00615	0x00479e7f	Three of a kind	One pair	82J87	293
+00614	0x00479e7b	Three of a kind	One pair	82J83	540
+00613	0x00478d6a	Three of a kind	One pair	8JA4A	936
+00612	0x0047695a	Three of a kind	Three of a kind	7A7K7	904
+00611	0x00475ffc	Three of a kind	Three of a kind	7KKK9	410
+00610	0x00475b50	Three of a kind	Three of a kind	7K8KK	154
+00609	0x00475372	Three of a kind	One pair	7KJ79	567
+00608	0x004746a0	Three of a kind	Three of a kind	7Q2QQ	655
+00607	0x004732c6	Three of a kind	One pair	7TKTJ	41
+00606	0x00472f68	Three of a kind	One pair	7TTJ8	307
+00605	0x00471970	Three of a kind	Three of a kind	79299	772
+00604	0x00470011	Three of a kind	Three of a kind	77789	288
+00603	0x0046f93e	Three of a kind	One pair	77J42	275
+00602	0x0046dce7	Three of a kind	One pair	752J7	712
+00601	0x0046cc0d	Three of a kind	One pair	74JJK	341
+00600	0x0046c40f	Three of a kind	Three of a kind	73787	501
+00599	0x0046c009	Three of a kind	Three of a kind	7333Q	137
+00598	0x0046922d	Three of a kind	One pair	7J252	183
+00597	0x0046908c	Three of a kind	One pair	7JJ95	757
+00596	0x00466fff	Three of a kind	Three of a kind	6KKKQ	913
+00595	0x00466fb7	Three of a kind	One pair	6KK9J	807
+00594	0x00466954	Three of a kind	One pair	6K6QJ	397
+00593	0x004659fc	Three of a kind	Three of a kind	6Q662	452
+00592	0x004636a2	Three of a kind	One pair	6TJTQ	575
+00591	0x00462598	Three of a kind	One pair	68A8J	263
+00590	0x00462002	Three of a kind	Three of a kind	6888T	574
+00589	0x00461c20	Three of a kind	Three of a kind	68466	537
+00588	0x00460681	Three of a kind	Three of a kind	66K56	511
+00587	0x004605a4	Three of a kind	Three of a kind	66Q6T	11
+00586	0x0045ff6a	Three of a kind	Three of a kind	665Q6	78
+00585	0x0045fd6c	Three of a kind	Three of a kind	663T6	658
+00584	0x0045f880	Three of a kind	Three of a kind	65A66	871
+00583	0x0045d8f4	Three of a kind	One pair	63QQJ	699
+00582	0x0045d1b6	Three of a kind	One pair	635J6	637
+00581	0x0045c7c0	Three of a kind	Three of a kind	62T66	911
+00580	0x0045ac94	Three of a kind	One pair	6JK6T	571
+00579	0x0045a665	Three of a kind	One pair	6J6K2	446
+00578	0x00456bd0	Three of a kind	Three of a kind	5Q855	418
+00577	0x00454a10	Three of a kind	Three of a kind	5T455	118
+00576	0x00454100	Three of a kind	Three of a kind	59TTT	120
+00575	0x00453fb5	Three of a kind	Three of a kind	59949	553
+00574	0x00453900	Three of a kind	Three of a kind	59222	150
+00573	0x004534b0	Three of a kind	Three of a kind	58K88	756
+00572	0x004522d0	Three of a kind	Three of a kind	57T77	39
+00571	0x00451e87	Three of a kind	Three of a kind	575A5	577
+00570	0x0045196d	Three of a kind	One pair	57J74	97
+00569	0x00450787	Three of a kind	Three of a kind	55K5Q	909
+00568	0x0045006b	Three of a kind	Three of a kind	555Q7	414
+00567	0x00450017	Three of a kind	Three of a kind	5556K	130
+00566	0x0044ced0	Three of a kind	One pair	52JKK	619
+00565	0x0044b589	Three of a kind	One pair	5J5A7	59
+00564	0x0044b296	Three of a kind	One pair	5J2Q2	459
+00563	0x0044b20f	Three of a kind	One pair	5J232	66
+00562	0x004492d5	Three of a kind	One pair	4AJA3	837
+00561	0x00447ffc	Three of a kind	Three of a kind	4QQQ8	102
+00560	0x00445655	Three of a kind	One pair	4TJ5T	500
+00559	0x004447cc	Three of a kind	One pair	49JK9	214
+00558	0x00443826	Three of a kind	One pair	48J28	327
+00557	0x00442d0b	Three of a kind	One pair	4745J	793
+00556	0x00441870	Three of a kind	Three of a kind	45A55	360
+00555	0x00441001	Three of a kind	Three of a kind	45556	363
+00554	0x00440f87	Three of a kind	Three of a kind	454K4	711
+00553	0x00440b9b	Three of a kind	One pair	45JT5	221
+00552	0x004403c9	Three of a kind	Three of a kind	4484K	706
+00551	0x004403c8	Three of a kind	Three of a kind	4484Q	987
+00550	0x004401e9	Three of a kind	Three of a kind	4464K	656
+00549	0x0044003b	Three of a kind	Three of a kind	44483	999
+00548	0x0043ccfb	Three of a kind	One pair	4JKK8	761
+00547	0x0043cc73	Three of a kind	One pair	4JK47	317
+00546	0x0043c5ff	Three of a kind	One pair	4J665	749
+00545	0x0043a2b7	Three of a kind	One pair	3AJQ3	423
+00544	0x0043870f	Three of a kind	Three of a kind	3Q343	986
+00543	0x004368ff	Three of a kind	Three of a kind	3T332	835
+00542	0x00435f7e	Three of a kind	One pair	399JA	791
+00541	0x00434bfc	Three of a kind	One pair	3844J	440
+00540	0x00432d87	Three of a kind	Three of a kind	363Q3	313
+00539	0x00431e3c	Three of a kind	Three of a kind	35373	558
+00538	0x00430a57	Three of a kind	Three of a kind	33A3T	579
+00537	0x004301e6	Three of a kind	Three of a kind	33539	840
+00536	0x0042fd7d	Three of a kind	One pair	33J85	649
+00535	0x0042f10b	Three of a kind	Three of a kind	3233A	778
+00534	0x0042b8ae	Three of a kind	One pair	2A72J	839
+00533	0x0042b3ed	Three of a kind	One pair	2A2JK	259
+00532	0x0042a200	Three of a kind	Three of a kind	2QAAA	826
+00531	0x004295e4	Three of a kind	One pair	2Q2J4	244
+00530	0x00427400	Three of a kind	Three of a kind	29KKK	697
+00529	0x00426ffc	Three of a kind	Three of a kind	29995	651
+00528	0x00426978	Three of a kind	Three of a kind	292T2	70
+00527	0x0042691e	Three of a kind	Three of a kind	29242	735
+00526	0x00425cb5	Three of a kind	One pair	285J5	698
+00525	0x00425a3c	Three of a kind	Three of a kind	28262	73
+00524	0x004259e6	Three of a kind	One pair	282J6	502
+00523	0x00425007	Three of a kind	Three of a kind	2777A	40
+00522	0x00424ffd	Three of a kind	Three of a kind	27774	896
+00521	0x0042437e	Three of a kind	One pair	26T2J	870
+00520	0x00423ece	Three of a kind	One pair	2652J	355
+00519	0x00423a3e	Three of a kind	One pair	26J42	94
+00518	0x00421e06	Three of a kind	Three of a kind	24228	49
+00517	0x0042100a	Three of a kind	Three of a kind	2333K	211
+00516	0x004209d8	Three of a kind	Three of a kind	22QT2	935
+00515	0x004202bd	Three of a kind	One pair	225JK	786
+00514	0x004201eb	Three of a kind	Three of a kind	2242K	548
+00513	0x0040d7ad	Three of a kind	One pair	JA6JK	231
+00512	0x0040d78f	Three of a kind	One pair	JA5AK	454
+00511	0x0040ba18	Three of a kind	One pair	JQ68J	323
+00510	0x0040b69b	Three of a kind	One pair	JQ2Q7	794
+00509	0x00409dfb	Three of a kind	One pair	JT883	81
+00508	0x00407f44	Three of a kind	One pair	J87QJ	76
+00507	0x00407e78	Three of a kind	One pair	J86A6	205
+00506	0x00406c06	Three of a kind	One pair	J7339	639
+00505	0x004062ff	Three of a kind	One pair	J6998	705
+00504	0x00405783	Three of a kind	One pair	J5K58	135
+00503	0x00405053	Three of a kind	One pair	J55TK	518
+00502	0x00404d35	Three of a kind	One pair	J525T	996
+00501	0x00404ce4	Three of a kind	One pair	J52J4	220
+00500	0x00404044	Three of a kind	One pair	J448Q	673
+00499	0x00404011	Three of a kind	One pair	J4456	747
+00498	0x0040389a	Three of a kind	One pair	J3Q6J	510
+00497	0x004033cb	Three of a kind	One pair	J373A	525
+00496	0x0040331b	Three of a kind	One pair	J3683	704
+00495	0x00402d27	Three of a kind	One pair	J3J29	520
+00494	0x00402afa	Three of a kind	One pair	J2KK7	383
+00493	0x00402820	Three of a kind	One pair	J2TQQ	939
+00492	0x00402169	Three of a kind	One pair	J23T3	228
+00491	0x003dfdb0	Two pair	Two pair	AAQ77	678
+00490	0x003dec4f	Two pair	Two pair	AK9AK	372
+00489	0x003dc370	Two pair	Two pair	ATA55	593
+00488	0x003dad2d	Two pair	Two pair	A9696	255
+00487	0x003dad08	Two pair	Two pair	A966A	661
+00486	0x003da23a	Two pair	Two pair	A8TA8	754
+00485	0x003d9ff7	Two pair	Two pair	A887A	971
+00484	0x003d9696	Two pair	Two pair	A7A7K	708
+00483	0x003d877c	Two pair	Two pair	A6A62	407
+00482	0x003d7880	Two pair	Two pair	A5A66	966
+00481	0x003d04bf	Two pair	Two pair	KA2AK	690
+00480	0x003cfafc	Two pair	Two pair	KK884	310
+00479	0x003cf005	Two pair	Two pair	KQQK2	504
+00478	0x003cec3c	Two pair	Two pair	KQ8Q8	375
+00477	0x003ca50a	Two pair	Two pair	K7QK7	814
+00476	0x003c80f8	Two pair	Two pair	K565K	572
+00475	0x003c73c4	Two pair	Two pair	K4848	216
+00474	0x003c6950	Two pair	Two pair	K3K22	470
+00473	0x003c5aaa	Two pair	Two pair	K2K82	29
+00472	0x003c51eb	Two pair	Two pair	K242K	209
+00471	0x003c00d0	Two pair	Two pair	QQKTT	751
+00470	0x003be016	Two pair	Two pair	QTTQ2	12
+00469	0x003bc973	Two pair	Two pair	Q929Q	401
+00468	0x003bb50a	Two pair	Two pair	Q7QK7	717
+00467	0x003ba564	Two pair	Two pair	Q6Q26	144
+00466	0x003b9680	Two pair	Two pair	Q5Q44	1
+00465	0x003b9067	Two pair	Two pair	Q55Q3	869
+00464	0x003b8816	Two pair	Two pair	Q4QA4	542
+00463	0x003b8404	Two pair	Two pair	Q488Q	669
+00462	0x003b8258	Two pair	Two pair	Q46Q4	422
+00461	0x003b698d	Two pair	Two pair	Q2Q52	530
+00460	0x003b64b5	Two pair	Two pair	Q2727	177
+00459	0x003a2f76	Two pair	Two pair	TKK4T	926
+00458	0x003a1d03	Two pair	Two pair	TQ99Q	267
+00457	0x0039feff	Two pair	Two pair	TT998	877
+00456	0x0039fd01	Two pair	Two pair	TT778	185
+00455	0x0039fc70	Two pair	Two pair	TT6KK	56
+00454	0x0039fbd0	Two pair	Two pair	TT633	153
+00453	0x0039f902	Two pair	Two pair	TT335	636
+00452	0x0039f84b	Two pair	Two pair	TT272	277
+00451	0x0039ec3c	Two pair	Two pair	T9595	506
+00450	0x0039c0f4	Two pair	Two pair	T676T	993
+00449	0x0039a05e	Two pair	Two pair	T44T8	941
+00448	0x00399052	Two pair	Two pair	T338T	629
+00447	0x00398968	Two pair	Two pair	T2Q2T	666
+00446	0x003986f9	Two pair	Two pair	T2992	516
+00445	0x00394a06	Two pair	Two pair	9A88A	799
+00444	0x0039374b	Two pair	Two pair	9K494	729
+00443	0x003902a6	Two pair	Two pair	99Q6Q	389
+00442	0x0038fb40	Two pair	Two pair	99488	667
+00441	0x0038ef02	Two pair	Two pair	98779	718
+00440	0x0038e4fb	Two pair	Two pair	97QQ7	596
+00439	0x0038dfc0	Two pair	Two pair	97733	385
+00438	0x0038dc5a	Two pair	Two pair	97393	481
+00437	0x0038c21c	Two pair	Two pair	95795	61
+00436	0x00389ba9	Two pair	Two pair	92A92	677
+00435	0x00385b05	Two pair	Two pair	8A99A	765
+00434	0x00383be6	Two pair	Two pair	8Q86Q	6
+00433	0x003805f7	Two pair	Two pair	88AA5	460
+00432	0x0037ff02	Two pair	Two pair	88779	342
+00431	0x0037fa01	Two pair	Two pair	88223	201
+00430	0x0037696a	Two pair	Two pair	7A7A8	955
+00429	0x00376965	Two pair	Two pair	7A7A3	828
+00428	0x00375a57	Two pair	Two pair	7K7K4	296
+00427	0x00372fcd	Two pair	Two pair	7TT74	487
+00426	0x0037194b	Two pair	Two pair	79272	982
+00425	0x00370ff6	Two pair	Two pair	7887K	631
+00424	0x00370f6a	Two pair	Two pair	787A8	51
+00423	0x003700a0	Two pair	Two pair	77822	215
+00422	0x0036fb02	Two pair	Two pair	77224	227
+00421	0x0036f3fd	Two pair	Two pair	76TT7	903
+00420	0x0036e250	Two pair	Two pair	757QQ	38
+00419	0x0036c3ed	Two pair	Two pair	73763	809
+00418	0x0036c030	Two pair	Two pair	73366	347
+00417	0x0036740c	Two pair	Two pair	6A22A	653
+00416	0x0036696a	Two pair	Two pair	6K6K7	973
+00415	0x003607f9	Two pair	Two pair	66AA7	57
+00414	0x00360290	Two pair	Two pair	66922	105
+00413	0x0035fef0	Two pair	Two pair	66544	429
+00412	0x0035f12c	Two pair	Two pair	65695	350
+00411	0x0035f04c	Two pair	Two pair	655T6	23
+00410	0x0035d2c1	Two pair	Two pair	63623	983
+00409	0x003586fa	Two pair	Two pair	5A54A	1000
+00408	0x00357177	Two pair	Two pair	5QA5Q	563
+00407	0x00356f91	Two pair	Two pair	5QQ56	173
+00406	0x00354a06	Two pair	Two pair	5T44T	517
+00405	0x003542f9	Two pair	Two pair	59QQ5	437
+00404	0x00351b2d	Two pair	Two pair	57252	376
+00403	0x003515a6	Two pair	Two pair	56Q6Q	208
+00402	0x003507f0	Two pair	Two pair	55KQQ	849
+00401	0x003507b5	Two pair	Two pair	55K8K	312
+00400	0x00350306	Two pair	Two pair	5588A	519
+00399	0x0034fd08	Two pair	Two pair	5522T	925
+00398	0x0034f3d3	Two pair	Two pair	54858	928
+00397	0x0034e5a6	Two pair	Two pair	53939	509
+00396	0x00349619	Two pair	Two pair	4A45A	104
+00395	0x00348791	Two pair	Two pair	4K4KA	24
+00394	0x00347f89	Two pair	Two pair	4QQ4K	435
+00393	0x00347d28	Two pair	Two pair	4Q9Q4	164
+00392	0x00344ec5	Two pair	Two pair	49849	682
+00391	0x003432fa	Two pair	Two pair	47TT4	961
+00390	0x003420f1	Two pair	Two pair	46767	836
+00389	0x003404fd	Two pair	Two pair	44996	382
+00388	0x0034045a	Two pair	Two pair	448A8	443
+00387	0x00340120	Two pair	Two pair	44577	632
+00386	0x0033f097	Two pair	Two pair	433K4	508
+00385	0x003350a5	Two pair	Two pair	38938	147
+00384	0x00334fce	Two pair	Two pair	38853	434
+00383	0x00334ec4	Two pair	Two pair	38737	408
+00382	0x00334ba0	Two pair	Two pair	383KK	477
+00381	0x003341fe	Two pair	Two pair	37997	403
+00380	0x00332d36	Two pair	Two pair	3636Q	103
+00379	0x003321e2	Two pair	Two pair	35757	186
+00378	0x003320d2	Two pair	Two pair	35635	645
+00377	0x00332030	Two pair	Two pair	35588	141
+00376	0x00331879	Two pair	Two pair	34K4K	689
+00375	0x00331060	Two pair	Two pair	344TT	848
+00374	0x00330f70	Two pair	Two pair	343TT	46
+00373	0x0033063c	Two pair	Two pair	339K9	45
+00372	0x0032ba06	Two pair	Two pair	2A88A	95
+00371	0x0032af5a	Two pair	Two pair	2KK2Q	340
+00370	0x003260f9	Two pair	Two pair	28992	715
+00369	0x00325dc6	Two pair	Two pair	28628	924
+00368	0x00325bfe	Two pair	Two pair	28442	43
+00367	0x00324fb1	Two pair	Two pair	27723	106
+00366	0x00323fc2	Two pair	Two pair	26624	419
+00365	0x00323ca0	Two pair	Two pair	262QQ	787
+00364	0x00322fe0	Two pair	Two pair	25533	292
+00363	0x0032202b	Two pair	Two pair	24472	352
+00362	0x003215fa	Two pair	Two pair	23993	22
+00361	0x00320304	Two pair	Two pair	22559	285
+00360	0x00320250	Two pair	Two pair	22499	892
+00359	0x00320190	Two pair	Two pair	223QQ	620
+00358	0x00320170	Two pair	Two pair	223TT	565
+00357	0x002dd916	One pair	One pair	AQ56Q	611
+00356	0x002db03b	One pair	One pair	A99K8	167
+00355	0x002d76c6	One pair	One pair	A5Q8A	912
+00354	0x002d7519	One pair	One pair	A5TQ5	785
+00353	0x002d73fd	One pair	One pair	A5996	954
+00352	0x002d70a7	One pair	High Card	A56J7	405
+00351	0x002d706d	One pair	One pair	A55Q9	875
+00350	0x002d6ce4	One pair	High Card	A52J4	351
+00349	0x002d5e40	One pair	One pair	A4266	188
+00348	0x002d5e0a	One pair	One pair	A422Q	98
+00347	0x002d5de3	One pair	High Card	A42J3	336
+00346	0x002d58fc	One pair	One pair	A3QQ8	315
+00345	0x002d4aa6	One pair	One pair	A2K7K	547
+00344	0x002d43f1	One pair	One pair	A2656	119
+00343	0x002d4386	One pair	One pair	A25A4	580
+00342	0x002d42b7	One pair	High Card	A25J7	212
+00341	0x002d2ccb	One pair	High Card	AJKT5	474
+00340	0x002d2929	One pair	High Card	AJ9Q5	710
+00339	0x002d284d	One pair	High Card	AJ8KT	524
+00338	0x002d283a	One pair	High Card	AJ8Q6	93
+00337	0x002d266f	One pair	High Card	AJ6KQ	679
+00336	0x002d0b88	One pair	One pair	KAT2T	197
+00335	0x002cfedb	One pair	One pair	KKQT5	256
+00334	0x002cfa29	One pair	One pair	KK7T3	262
+00333	0x002ced8b	One pair	One pair	KQT2K	795
+00332	0x002cec23	One pair	One pair	KQ8TK	319
+00331	0x002cd3a0	One pair	One pair	KTA88	536
+00330	0x002cb934	One pair	One pair	K9259	334
+00329	0x002cb130	One pair	One pair	K89QQ	696
+00328	0x002ca18e	One pair	High Card	K792J	268
+00327	0x002c9b7d	One pair	One pair	K72T7	829
+00326	0x002c63fd	One pair	One pair	K3774	721
+00325	0x002c5d54	One pair	High Card	K3J59	339
+00324	0x002c5427	One pair	High Card	K269J	720
+00323	0x002c50dc	One pair	High Card	K23JQ	335
+00322	0x002c18c4	One pair	One pair	QA737	887
+00321	0x002c17cd	One pair	High Card	QA63J	952
+00320	0x002c1401	One pair	One pair	QA223	136
+00319	0x002c0c35	One pair	One pair	QK9K2	468
+00318	0x002c059e	One pair	One pair	QK2QT	497
+00317	0x002be326	One pair	High Card	QTAJ6	149
+00316	0x002bdd5a	One pair	One pair	QT7K7	308
+00315	0x002bd66e	One pair	High Card	QTJ75	299
+00314	0x002bc456	One pair	One pair	Q8K28	528
+00313	0x002bc408	One pair	One pair	Q8QK5	184
+00312	0x002bbf69	One pair	One pair	Q87A7	160
+00311	0x002bb303	One pair	One pair	Q7TTK	489
+00310	0x002b9d63	One pair	One pair	Q639Q	10
+00309	0x002b4766	One pair	High Card	QJ7A4	838
+00308	0x002a3ae2	One pair	One pair	TA979	521
+00307	0x002a38da	One pair	One pair	TA74A	330
+00306	0x002a14d1	One pair	High Card	TQJKA	265
+00305	0x002a1451	One pair	High Card	TQJ56	219
+00304	0x0029edf1	One pair	One pair	T9767	908
+00303	0x0029e5f0	One pair	One pair	T8AKK	316
+00302	0x0029de3f	One pair	One pair	T86T9	943
+00301	0x0029dd4a	One pair	One pair	T85T4	237
+00300	0x0029d11a	One pair	One pair	T78T4	527
+00299	0x0029c250	One pair	One pair	T68KK	138
+00298	0x0029c234	One pair	High Card	T68QJ	962
+00297	0x0029c0d2	One pair	One pair	T6746	196
+00296	0x0029bf18	One pair	One pair	T656A	373
+00295	0x0029bd40	One pair	One pair	T6377	243
+00294	0x0029a385	One pair	High Card	T48J5	893
+00293	0x0029a053	One pair	One pair	T449Q	484
+00292	0x00299fe6	One pair	One pair	T4428	266
+00291	0x00299a75	One pair	One pair	T3A5T	430
+00290	0x0029899a	One pair	High Card	T2Q6J	845
+00289	0x0029842d	One pair	One pair	T2696	239
+00288	0x00298203	One pair	One pair	T2447	726
+00287	0x0029804d	One pair	One pair	T2274	122
+00286	0x00294818	One pair	High Card	9A68J	856
+00285	0x00293f65	One pair	One pair	9KK38	281
+00284	0x00293096	One pair	One pair	9QK6Q	906
+00283	0x002913b4	One pair	One pair	9TA9K	207
+00282	0x00290b02	One pair	One pair	9T557	269
+00281	0x00290896	One pair	One pair	9T2Q2	494
+00280	0x0028fc81	One pair	One pair	995KA	65
+00279	0x0028f5b6	One pair	High Card	98ATJ	156
+00278	0x0028f0b9	One pair	One pair	9894K	159
+00277	0x0028e656	One pair	One pair	97A39	148
+00276	0x0028c394	One pair	One pair	95926	818
+00275	0x0028bb2f	One pair	High Card	95J32	182
+00274	0x0028a419	One pair	One pair	93792	812
+00273	0x002872a6	One pair	High Card	9J2K3	402
+00272	0x00285442	One pair	One pair	8A268	276
+00271	0x002845da	One pair	High Card	8K3JT	386
+00270	0x00283d6d	One pair	High Card	8QTJK	638
+00269	0x00282325	One pair	High Card	8TAJ5	251
+00268	0x00281a9c	One pair	One pair	8T4AT	746
+00267	0x00280fd7	One pair	One pair	8996K	633
+00266	0x002807d4	One pair	High Card	89JA2	771
+00265	0x00280557	One pair	One pair	88A3T	945
+00264	0x0027fd54	One pair	One pair	885TA	180
+00263	0x0027fa75	One pair	One pair	8829A	364
+00262	0x0027f6b0	One pair	One pair	87A99	172
+00261	0x0027dd6c	One pair	One pair	863T6	910
+00260	0x0027d376	One pair	High Card	859J6	436
+00259	0x00279e3b	One pair	High Card	82J3A	175
+00258	0x002788e6	One pair	High Card	8J97K	124
+00257	0x002788aa	One pair	High Card	8J93K	635
+00256	0x0027865d	One pair	High Card	8J6Q9	439
+00255	0x002759b1	One pair	One pair	7K723	7
+00254	0x00274d8d	One pair	High Card	7QT3J	321
+00253	0x00274652	One pair	One pair	7Q279	800
+00252	0x00273190	One pair	One pair	7TQ55	748
+00251	0x00271aa0	One pair	One pair	793KK	286
+00250	0x00271058	One pair	One pair	788A6	898
+00249	0x002705ed	One pair	One pair	77KQ9	361
+00248	0x002702da	One pair	One pair	77T82	844
+00247	0x0027028a	One pair	One pair	77T2Q	264
+00246	0x0026fcec	One pair	One pair	7742A	788
+00245	0x0026ec0a	One pair	One pair	7622Q	950
+00244	0x0026e6b2	One pair	One pair	75Q79	283
+00243	0x0026ddd2	One pair	High Card	753J2	714
+00242	0x0026bfb0	One pair	One pair	732KK	482
+00241	0x00269cba	One pair	High Card	7JK93	872
+00240	0x00267fec	One pair	One pair	6AAK9	980
+00239	0x00267023	One pair	High Card	6KAJ3	409
+00238	0x00266520	One pair	One pair	6K244	843
+00237	0x00264021	One pair	One pair	6TTQK	853
+00236	0x00263b52	One pair	One pair	6T5TQ	387
+00235	0x002633b0	One pair	One pair	69K88	178
+00234	0x00262c14	One pair	One pair	6956T	512
+00233	0x00262a31	One pair	One pair	69367	730
+00232	0x002612fa	One pair	One pair	67TT4	820
+00231	0x00261084	One pair	High Card	678J4	123
+00230	0x0026042c	One pair	One pair	66TK9	610
+00229	0x0025f1ae	One pair	High Card	6572J	345
+00228	0x0025ed33	One pair	One pair	65258	559
+00227	0x0025e568	One pair	High Card	64TJ8	630
+00226	0x0025dcbc	One pair	High Card	64JQ8	499
+00225	0x0025dc54	One pair	High Card	64J59	532
+00224	0x0025cfb2	One pair	High Card	632AJ	294
+00223	0x0025c945	One pair	High Card	62QJ5	539
+00222	0x0025ab77	One pair	High Card	6JQ3T	687
+00221	0x0025a6bc	One pair	High Card	6J72A	606
+00220	0x00258e7a	One pair	One pair	5AK4A	968
+00219	0x00258d9f	One pair	One pair	5AQ65	940
+00218	0x002587a3	One pair	High Card	5A6J3	58
+00217	0x0025823a	One pair	High Card	5AJ3K	412
+00216	0x002578f7	One pair	One pair	5K65Q	356
+00215	0x00256976	One pair	One pair	5Q5K3	129
+00214	0x002568f2	One pair	One pair	5Q546	379
+00213	0x00254960	One pair	One pair	5T399	3
+00212	0x002535dc	One pair	One pair	58AQ8	963
+00211	0x00253018	One pair	One pair	588T2	688
+00210	0x002524fd	One pair	One pair	57QQ9	581
+00209	0x00251d20	One pair	One pair	57466	213
+00208	0x002517d4	One pair	High Card	56AQJ	320
+00207	0x00250be3	One pair	High Card	562J3	767
+00206	0x0024f3b1	One pair	One pair	54834	741
+00205	0x0024b363	One pair	High Card	5J39Q	743
+00204	0x00249f82	One pair	One pair	4AA68	415
+00203	0x0024944b	One pair	One pair	4A272	52
+00202	0x002486ea	One pair	One pair	4K42Q	426
+00201	0x002485a1	One pair	One pair	4K2QK	179
+00200	0x0024801b	One pair	One pair	4QQA9	919
+00199	0x002479ca	One pair	One pair	4Q62Q	279
+00198	0x00245a91	One pair	One pair	4T4KA	640
+00197	0x00243efe	One pair	One pair	48775	248
+00196	0x00243339	One pair	One pair	47TA7	810
+00195	0x00240955	One pair	One pair	44A38	797
+00194	0x00240364	One pair	One pair	447A2	592
+00193	0x002401cf	One pair	One pair	44632	37
+00192	0x0023f630	One pair	One pair	439QQ	863
+00191	0x0023f2c4	One pair	One pair	43626	139
+00190	0x0023f029	One pair	One pair	4335A	707
+00189	0x0023e5aa	One pair	One pair	4282Q	126
+00188	0x0023e58e	One pair	High Card	428JA	569
+00187	0x0023e1a6	One pair	One pair	423A4	879
+00186	0x0023e12a	One pair	High Card	4236J	222
+00185	0x0023c9ec	One pair	High Card	4JT95	920
+00184	0x0023af77	One pair	One pair	3AA5Q	657
+00183	0x00239708	One pair	One pair	3K44Q	522
+00182	0x00239325	One pair	High Card	3KJ27	560
+00181	0x00238dea	One pair	One pair	3QT93	618
+00180	0x00238cf4	One pair	One pair	3Q98Q	230
+00179	0x00238a04	One pair	One pair	3Q66T	981
+00178	0x00237202	One pair	One pair	3TQQA	250
+00177	0x00236ecd	One pair	One pair	3T963	69
+00176	0x0023687c	One pair	One pair	3T2T6	723
+00175	0x002366ca	One pair	High Card	3TJK7	792
+00174	0x00235e8c	One pair	High Card	398JQ	582
+00173	0x002359b4	One pair	One pair	392A2	774
+00172	0x0023591c	One pair	High Card	3924J	716
+00171	0x002354f1	One pair	One pair	38KQK	79
+00170	0x00233dec	One pair	High Card	3754J	744
+00169	0x002330f7	One pair	One pair	3676K	324
+00168	0x0023303a	One pair	One pair	366T4	301
+00167	0x0023230f	One pair	One pair	35898	194
+00166	0x00232032	One pair	One pair	3558T	609
+00165	0x00231f59	One pair	One pair	354T3	921
+00164	0x0022f962	One pair	One pair	32Q24	272
+00163	0x0022f2f0	One pair	One pair	32544	857
+00162	0x0022f128	One pair	One pair	3235K	108
+00161	0x0022d527	One pair	High Card	3J57A	817
+00160	0x0022a7b6	One pair	High Card	2K5J6	933
+00159	0x0022967c	One pair	One pair	2Q2T6	890
+00158	0x00227f96	One pair	One pair	2TT39	997
+00157	0x00226ee3	One pair	One pair	29869	374
+00156	0x00226150	One pair	One pair	289AA	63
+00155	0x00225eea	One pair	High Card	2876J	694
+00154	0x00225e40	One pair	One pair	286TT	218
+00153	0x00225864	One pair	High Card	28J6T	240
+00152	0x002245f9	One pair	One pair	26QQ5	650
+00151	0x00223a8a	One pair	High Card	26J93	60
+00150	0x002233de	One pair	One pair	25975	346
+00149	0x00220532	One pair	One pair	227TQ	776
+00148	0x002201f4	One pair	One pair	22437	260
+00147	0x0021e464	One pair	High Card	2J4TA	951
+00146	0x0020dbd2	One pair	High Card	JAT79	455
+00145	0x0020b8e7	One pair	High Card	JQ53T	900
+00144	0x0020b74a	One pair	High Card	JQ382	825
+00143	0x0020b613	One pair	High Card	JQ236	155
+00142	0x0020a2bc	One pair	High Card	JTK95	684
+00141	0x00208c2b	One pair	High Card	J9583	605
+00140	0x00208407	One pair	High Card	J8QK4	691
+00139	0x0020732b	One pair	High Card	J7TK8	916
+00138	0x002072de	One pair	High Card	J7T86	42
+00137	0x002071b2	One pair	High Card	J7946	304
+00136	0x00207191	One pair	High Card	J7923	217
+00135	0x00206d9b	One pair	High Card	J74A9	318
+00134	0x002052ba	One pair	High Card	J583K	206
+00133	0x0020489c	One pair	High Card	J4K73	956
+00132	0x0020431c	One pair	High Card	J4795	576
+00131	0x00203eab	One pair	High Card	J42K8	469
+00130	0x00203e5f	One pair	High Card	J4287	417
+00129	0x002021f7	One pair	High Card	J243T	965
+00128	0x001dec09	High Card	High Card	AK9T3	303
+00127	0x001dc2eb	High Card	High Card	ATKQ7	783
+00126	0x001d9d13	High Card	High Card	A8569	380
+00125	0x001d90df	High Card	High Card	A7865	396
+00124	0x001d8d7c	High Card	High Card	A74Q8	366
+00123	0x001d74e4	High Card	High Card	A5T8Q	889
+00122	0x001d72c5	High Card	High Card	A5849	202
+00121	0x001d43f3	High Card	High Card	A2658	531
+00120	0x001d0d61	High Card	High Card	KAQ23	314
+00119	0x001d0adf	High Card	High Card	KA976	158
+00118	0x001ccad6	High Card	High Card	KT528	27
+00117	0x001cc8b6	High Card	High Card	KT2A4	591
+00116	0x001cb23e	High Card	High Card	K8TAQ	969
+00115	0x001caa31	High Card	High Card	K8256	713
+00114	0x001c93a1	High Card	High Card	K6T45	902
+00113	0x001c6114	High Card	High Card	K3459	599
+00112	0x001c52e6	High Card	High Card	K2539	445
+00111	0x001c521f	High Card	High Card	K2465	770
+00110	0x001c1462	High Card	High Card	QA28T	8
+00109	0x001bd353	High Card	High Card	Q9K25	190
+00108	0x001bcb97	High Card	High Card	Q94A5	121
+00107	0x001bc0ba	High Card	High Card	Q894A	603
+00106	0x001bb563	High Card	High Card	Q7K36	842
+00105	0x001bb14c	High Card	High Card	Q78K9	507
+00104	0x001baf1b	High Card	High Card	Q7683	855
+00103	0x001ba259	High Card	High Card	Q68A7	752
+00102	0x001b9d3d	High Card	High Card	Q6374	161
+00101	0x001b931c	High Card	High Card	Q58T6	992
+00100	0x001b8ea4	High Card	High Card	Q53A2	543
+00099	0x001b7639	High Card	High Card	Q39K6	257
+00098	0x001b6748	High Card	High Card	Q29A6	358
+00097	0x001b6558	High Card	High Card	Q27K5	970
+00096	0x001a3ea2	High Card	High Card	TAK79	984
+00095	0x001a372e	High Card	High Card	TA586	886
+00094	0x001a2abb	High Card	High Card	TK83A	53
+00093	0x001a1ae3	High Card	High Card	TQ758	759
+00092	0x0019f266	High Card	High Card	T9Q28	587
+00091	0x0019ee65	High Card	High Card	T97A3	594
+00090	0x0019e913	High Card	High Card	T9236	448
+00089	0x0019e5ad	High Card	High Card	T8A96	529
+00088	0x0019d563	High Card	High Card	T7K36	325
+00087	0x0019cdd2	High Card	High Card	T7524	683
+00086	0x0019c10c	High Card	High Card	T6784	395
+00085	0x0019bf7f	High Card	High Card	T65KQ	841
+00084	0x0019ad16	High Card	High Card	T5239	851
+00083	0x0019a793	High Card	High Card	T4Q58	616
+00082	0x0019485b	High Card	High Card	9A6Q7	64
+00081	0x00194645	High Card	High Card	9A48K	17
+00080	0x00194635	High Card	High Card	9A47Q	110
+00079	0x00194077	High Card	High Card	9KA5Q	462
+00078	0x00193094	High Card	High Card	9QK6T	938
+00077	0x00192bee	High Card	High Card	9Q875	753
+00076	0x00191386	High Card	High Card	9TA6Q	617
+00075	0x0018f239	High Card	High Card	98TA7	399
+00074	0x0018c719	High Card	High Card	95QA7	613
+00073	0x0018c26f	High Card	High Card	957AK	671
+00072	0x001891a9	High Card	High Card	923A7	384
+00071	0x00189121	High Card	High Card	92356	627
+00070	0x0018486e	High Card	High Card	8K5QT	561
+00069	0x00184584	High Card	High Card	8K2TA	476
+00068	0x001819fb	High Card	High Card	8T43A	942
+00067	0x0017f4a4	High Card	High Card	87Q6T	544
+00066	0x0017ec2e	High Card	High Card	87364	762
+00065	0x0017c981	High Card	High Card	84A67	760
+00064	0x0017c7cc	High Card	High Card	84Q95	25
+00063	0x0017a28a	High Card	High Card	824K7	739
+00062	0x00176b99	High Card	High Card	7AT3Q	145
+00061	0x00174985	High Card	High Card	7Q5A3	929
+00060	0x00172c62	High Card	High Card	7T6QA	642
+00059	0x00171f23	High Card	High Card	798TK	823
+00058	0x00170b38	High Card	High Card	7836A	464
+00057	0x0016c721	High Card	High Card	73TQK	615
+00056	0x0016c631	High Card	High Card	739QK	400
+00055	0x0016c2f9	High Card	High Card	7365A	834
+00054	0x0016bbd7	High Card	High Card	72AQ3	348
+00053	0x00167b87	High Card	High Card	6AT29	515
+00052	0x0016776c	High Card	High Card	6A5Q8	133
+00051	0x00166ede	High Card	High Card	6KQT8	404
+00050	0x00165d86	High Card	High Card	6QT28	246
+00049	0x00164392	High Card	High Card	6TA79	858
+00048	0x00164356	High Card	High Card	6TA39	171
+00047	0x00163af4	High Card	High Card	6T548	859
+00046	0x0016346d	High Card	High Card	69A52	566
+00045	0x00162218	High Card	High Card	68TQ4	151
+00044	0x0015e4bd	High Card	High Card	64952	62
+00043	0x0015e166	High Card	High Card	645Q2	471
+00042	0x00157108	High Card	High Card	5QKA6	876
+00041	0x00156895	High Card	High Card	5Q4A3	692
+00040	0x00156854	High Card	High Card	5Q49K	866
+00039	0x0015528c	High Card	High Card	5TK62	457
+00038	0x00153191	High Card	High Card	58T34	85
+00037	0x001517ec	High Card	High Card	56AK9	142
+00036	0x00151386	High Card	High Card	56T28	99
+00035	0x001511b6	High Card	High Card	56839	644
+00034	0x0014ef42	High Card	High Card	54379	493
+00033	0x0014e515	High Card	High Card	5389A	234
+00032	0x0014e376	High Card	High Card	536A4	170
+00031	0x0014df9e	High Card	High Card	532QT	998
+00030	0x0014d16a	High Card	High Card	523T4	722
+00029	0x0014982a	High Card	High Card	4A693	643
+00028	0x00148ae3	High Card	High Card	4K869	885
+00027	0x00147d09	High Card	High Card	4Q9T3	990
+00026	0x00145c62	High Card	High Card	4T6QA	905
+00025	0x00145851	High Card	High Card	4T278	852
+00024	0x001450dd	High Card	High Card	49T85	411
+00023	0x0014223d	High Card	High Card	468Q9	827
+00022	0x0013f50c	High Card	High Card	43895	140
+00021	0x0013f4ac	High Card	High Card	4382A	622
+00020	0x0013e6e7	High Card	High Card	4297A	451
+00019	0x0013e6c8	High Card	High Card	4295K	89
+00018	0x0013adde	High Card	High Card	3AQT8	157
+00017	0x0013a65d	High Card	High Card	3A4T7	894
+00016	0x0013a443	High Card	High Card	3A269	128
+00015	0x00138d47	High Card	High Card	3Q9A5	777
+00014	0x001340ac	High Card	High Card	3782A	195
+00013	0x001317ba	High Card	High Card	34Q82	472
+00012	0x001314ea	High Card	High Card	34982	278
+00011	0x0012f33b	High Card	High Card	32594	960
+00010	0x0012bd98	High Card	High Card	2AQ5K	200
+00009	0x0012abd2	High Card	High Card	2K968	68
+00008	0x00127eeb	High Card	High Card	2T983	100
+00007	0x00127ee7	High Card	High Card	2T97A	665
+00006	0x00127119	High Card	High Card	29TQ5	91
+00005	0x00126c6c	High Card	High Card	295Q8	914
+00004	0x001261cf	High Card	High Card	28T76	44
+00003	0x00123f21	High Card	High Card	26578	831
+00002	0x0012325b	High Card	High Card	257K8	597
+00001	0x0012151d	High Card	High Card	238T7	169
+Part 2: 250757288
