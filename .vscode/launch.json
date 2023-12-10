@@ -9,6 +9,7 @@
 			"type": "python",
 			"request": "launch",
 			"program": "${file}",
+			"args": ["<","data-test.txt"],
 			"cwd": "${fileDirname}",
 			"console": "integratedTerminal",
 			"justMyCode": true
