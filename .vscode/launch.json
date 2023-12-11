@@ -9,7 +9,7 @@
 			"type": "python",
 			"request": "launch",
 			"program": "${file}",
-			"args": ["<","data-test.txt"],
+			"args": ["<","data-test-2.txt"],
 			"cwd": "${fileDirname}",
 			"console": "integratedTerminal",
 			"justMyCode": true
