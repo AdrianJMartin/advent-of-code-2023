@@ -41,9 +41,22 @@ t = str.maketrans( {
 
 field = field.translate( t  )
 
+
 print(field)
 
+s = field.index("S")
 field = field.splitlines()
+
+
+y = s // len(field[0])
+
+s = field[y].index("S")
+x = s 
+
+
+field[y] = field[y][:x] + "X" + field[y][x+1:]
+
+print( "\n".join(field))
 
 
 
