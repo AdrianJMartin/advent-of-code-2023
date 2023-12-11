@@ -7,10 +7,6 @@ for i,l in enumerate(field):
 field = [ "." * len( field[1] ) , *field ]
 field = [ *field , field[0]]
 
-
-
-
-
 x = 0
 y = 0
 # find start
@@ -20,12 +16,14 @@ for i,l in enumerate(field):
 		y = i
 		break
 
-
-
 last_direction = None
 steps = 0
+path = []
 
 while field[y][x] != "S" or steps == 0:
+	
+	path.append((x,y))
+
 	# can we move north
 	if last_direction != "s" and field[y-1][x] in "|7FS" and field[y][x] in "S|LJ":
 		y -= 1
@@ -45,6 +43,34 @@ while field[y][x] != "S" or steps == 0:
 	print(f"{steps} {last_direction}")
 
 print(f"furthest step: {steps//2}")
+print()
+for l in field:
+	print(l)
+print()
+print("-----------------------------------")
+for y,l in enumerate(field):
+	nl = ""
+	for x,c in enumerate(l):
+		if (x,y) in path:
+			nl += "*"
+		else:
+			nl += "."
+	field[y] = nl
+print("-----------------------------------")
+print( "\n".join( field)) 
+print("-----------------------------------")
+
+c_inside = 0
+for y,l in field:
+	expected = "."
+	changes = 0 
+	for x,c in l:
+		if c != expected:
+			changes += 1
+			expected = "*"
+
+print("-----------------------------------")
+print("-----------------------------------")
 
 """
 The pipes are arranged in a two-dimensional grid of tiles:
