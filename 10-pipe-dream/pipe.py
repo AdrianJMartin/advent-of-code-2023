@@ -52,24 +52,25 @@ for y,l in enumerate(field):
 	nl = ""
 	for x,c in enumerate(l):
 		if (x,y) in path:
-			nl += "*"
+			nl += c 
 		else:
 			nl += "."
 	field[y] = nl
 print("-----------------------------------")
 print( "\n".join( field)) 
+print("-flood-fill------------------------")
+
+x = 0
+y = 0
+
+
+
+
+
+
+
 print("-----------------------------------")
 
-c_inside = 0
-for y,l in field:
-	expected = "."
-	changes = 0 
-	for x,c in l:
-		if c != expected:
-			changes += 1
-			expected = "*"
-
-print("-----------------------------------")
 print("-----------------------------------")
 
 """
