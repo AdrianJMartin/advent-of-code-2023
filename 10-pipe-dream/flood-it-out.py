@@ -34,6 +34,7 @@ with open("big-path.txt") as f:
 dot_color = ( 255,255,255 )
 background_color = (20,100,20)
 pipe_color = ( 255,0,0)
+flood_color = (100,100,255)
 
 def add_tup ( t1 ,t2 ):
     return ( t1[0] + t2[0] , t1[1] + t2[1])
@@ -118,7 +119,7 @@ for t in tests:
             drawing.ellipse( [tl,br] , fill=dot_color )
 
     field_img.save( f"output-{tests.index(t)}-b.png")
-    floodfill(field_img,xy=(1,1),value=pipe_color, thresh=20)
+    floodfill(field_img,xy=(1,1),value=flood_color, thresh=20)
     field_img.save( f"output-{tests.index(t)}.png")
 
     inside = 0
